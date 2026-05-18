@@ -80,3 +80,8 @@ CodeAlpha_LanguageTranslationTool/
 ## 👤 Author
 
 Built as part of the **CodeAlpha AI Internship** program.
+
+---
+
+## 🌐 Live Demo
+👉 [Try it here](https://languagetranslationtool.streamlit.app/)
